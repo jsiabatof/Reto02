@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Registro de cuenta Demo","Diligenciamiento erroneo del formulario Registro de cuenta Demo","SUCCESS","16:20:54","0.0","12.61"
+"Registro de cuenta Demo","Diligenciamiento exitoso del formulario Registro de cuenta Demo","SUCCESS","16:47:54","0.0","21.21"
+"Registro de cuenta Demo","Diligenciamiento erroneo con posterior corrección del formulario Registro de cuenta Demo","SUCCESS","16:48:17","0.0","18.75"
+"Registro de cuenta Demo","Diligenciamiento erroneo del formulario Registro de cuenta Demo Password no coinciden","SUCCESS","16:48:36","0.0","12.36"
+"Registro de cuenta Demo","Diligenciamiento erroneo del formulario Registro de cuenta Demo Password aleatorias","SUCCESS","16:48:49","0.0","13.31"
